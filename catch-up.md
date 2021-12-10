@@ -33,3 +33,7 @@
   ^^^^^^^^^^^^^^^^^^^ You can pick *either* repo ^^^^^^^^^^^^^^
   - [NcNotes - Prototypes and Constructors](https://notes.northcoders.com/courses/js-fundamentals/prototypes-and-constructors)
   - [NcNotes - Classes and Inheritance](https://notes.northcoders.com/courses/js-fundamentals/classes-and-inheritance)  
+
+----------------------------------------------------------------------------------------
+
+If you need some extra content, there's a [revision repo](https://github.com/northcoders/fun-revision) you can look through after the above :) 
